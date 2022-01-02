@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Football Stats App](https://github.com/enesduhanbulut/FootballStatsApp)
 
-- 🌱 I’m currently learning **MVVM Architecture**
+- 🌱 I’m currently learning **Modern Android App Architecture**
 
 - 📫 How to reach me **dev.duhanbulut@gmail.com**
 
