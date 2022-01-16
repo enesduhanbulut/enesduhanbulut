@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Duhan Bulut</h1>
 <h3 align="center">A passionate Android developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Football Stats App](https://github.com/enesduhanbulut/FootballStatsApp)
+- 🔭 I’m currently working on [Music Player App](https://github.com/enesduhanbulut/samplemusicplayer)
 
 - 🌱 I’m currently learning **Modern Android App Architecture**
 
