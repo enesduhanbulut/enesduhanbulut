@@ -1,4 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=enesduhanbulut)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesduhanbulut&hide=javascript,css,scss,html&theme=tokyonight)
+
 <h1 align="center">Hi 👋, I'm Enes Duhan Bulut</h1>
 <h3 align="center">A passionate Android developer from Turkey</h3>
 
