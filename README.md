@@ -1,9 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=enesduhanbulut)
 
 <h1 align="center">Hi 👋, I'm Enes Duhan Bulut</h1>
-<h3 align="center">A passionate Android developer from Turkey</h3>
-
-- 🔭 I’m currently working on [Music Player App](https://github.com/enesduhanbulut/samplemusicplayer)
+<h3 align="center">An Android developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Kotlin Language**
 
