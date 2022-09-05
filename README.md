@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Enes Duhan Bulut</h1>
 <h3 align="center">An Android developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Kotlin Language**
-
 - 📫 How to reach me **dev.duhanbulut@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
