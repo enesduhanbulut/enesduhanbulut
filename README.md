@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=enesduhanbulut)
-
 <h1 align="center">Hi 👋, I'm Enes Duhan Bulut</h1>
 <h3 align="center">An Android developer from Turkey</h3>
 
